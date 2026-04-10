@@ -1,4 +1,4 @@
-const API = "/api/expenses";
+const API = "https://expense-tracker.onrender.com/api/expenses";
 let allExpenses = [];
 let allCategories = new Set();
 
